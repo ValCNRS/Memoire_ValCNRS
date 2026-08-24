@@ -1,1 +1,1 @@
-# Memoire_Baignade_eau_libre
+Ce code a été réalisé dans le cadre de mon mémoire. Le mémoire et le code source sont mis à disposition selon les termes de la licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International.
